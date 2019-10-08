@@ -1,0 +1,2 @@
+"""Jeffy Recoding"""
+print(input())
